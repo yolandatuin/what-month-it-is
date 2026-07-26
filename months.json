@@ -1,0 +1,53 @@
+{
+  "January": {
+    "fruits": ["orange", "mandarin", "kiwi", "avocado", "apple", "pear", "lemon", "grapefruit"],
+    "vegetables": ["chard", "artichoke", "celery", "broccoli", "cabbage", "cauliflower", "spinach", "leek"],
+    "style": ["red", "orange"]
+  },
+  "February": {
+    "fruits": ["orange", "mandarin", "kiwi", "avocado", "apple", "pear", "lemon", "grapefruit"],
+    "vegetables": ["chard", "artichoke", "celery", "broccoli", "cabbage", "cauliflower", "spinach", "peas", "broad beans"]
+  },
+  "March": {
+    "fruits": ["strawberry", "orange", "mandarin", "kiwi", "avocado", "pear", "lemon"],
+    "vegetables": ["artichoke", "chard", "broccoli", "cauliflower", "spinach", "peas", "asparagus", "lettuce"],
+    "style": ["brown", "green", "image.jpg"]
+
+  },
+  "April": {
+    "fruits": ["strawberry", "apricot", "cherry", "kiwi", "orange", "pear"],
+    "vegetables": ["asparagus", "lettuce", "peas", "broad beans", "cucumber", "zucchini", "leek", "spinach"]
+  },
+  "May": {
+    "fruits": ["apricot", "cherry", "nectarine", "peach", "strawberry", "melon"],
+    "vegetables": ["lettuce", "zucchini", "asparagus", "cucumber", "carrot", "pepper"]
+  },
+  "June": {
+    "fruits": ["cherry", "apricot", "peach", "nectarine", "melon", "strawberry"],
+    "vegetables": ["tomato", "pepper", "cucumber", "zucchini", "green bean", "lettuce", "carrot"]
+  },
+  "July": {
+    "fruits": ["melon", "watermelon", "peach", "nectarine", "plum", "grape"],
+    "vegetables": ["tomato", "pepper", "eggplant", "cucumber", "zucchini", "green bean"]
+  },
+  "August": {
+    "fruits": ["melon", "watermelon", "plum", "grape", "fig"],
+    "vegetables": ["tomato", "pepper", "eggplant", "cucumber", "zucchini", "green bean"]
+  },
+  "September": {
+    "fruits": ["grape", "fig", "pear", "apple", "pomegranate"],
+    "vegetables": ["pumpkin", "pepper", "tomato", "eggplant", "cucumber", "zucchini"]
+  },
+  "October": {
+    "fruits": ["grape", "apple", "pomegranate", "persimmon", "fig"],
+    "vegetables": ["pumpkin", "cabbage", "broccoli", "cauliflower", "spinach", "leek"]
+  },
+  "November": {
+    "fruits": ["persimmon", "apple", "pear", "kiwi", "orange", "mandarin"],
+    "vegetables": ["cabbage", "broccoli", "cauliflower", "chard", "leek", "spinach"]
+  },
+  "December": {
+    "fruits": ["orange", "mandarin", "kiwi", "apple", "pear", "grapefruit"],
+    "vegetables": ["cabbage", "broccoli", "cauliflower", "chard", "spinach", "endive"]
+  }
+}
