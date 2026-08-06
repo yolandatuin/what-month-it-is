@@ -1,0 +1,10 @@
+{
+  "name": "what-month-it-is",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A simple static site that shows the current month.",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  }
+}
