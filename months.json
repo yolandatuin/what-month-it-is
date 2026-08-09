@@ -10,6 +10,7 @@
       "lemon",
       "grapefruit"
     ],
+
     "vegetables": [
       "chard",
       "artichoke",
@@ -20,7 +21,7 @@
       "spinach",
       "leek"
     ],
-    "style": ["black", "blue", "images/january.jpg"]
+    "style": ["blue", "images/January.png"]
   },
   "February": {
     "fruits": [
@@ -44,7 +45,7 @@
       "peas",
       "broad beans"
     ],
-    "style": ["black", "blue", "images/february.jpg"]
+    "style": ["blue", "images/February.png"]
   },
   "March": {
     "fruits": [
@@ -66,7 +67,7 @@
       "asparagus",
       "lettuce"
     ],
-    "style": ["brown", "green", "images/march.jpg"]
+    "style": ["green", "Images/march.png"]
   },
   "April": {
     "fruits": ["strawberry", "apricot", "cherry", "kiwi", "orange", "pear"],
@@ -80,7 +81,7 @@
       "leek",
       "spinach"
     ],
-    "style": ["black", "blue", "images/april.jpg"]
+    "style": ["blue", "images/April.png"]
   },
   "May": {
     "fruits": [
@@ -99,7 +100,7 @@
       "carrot",
       "pepper"
     ],
-    "style": ["black", "blue", "images/may.jpg"]
+    "style": ["blue", "images/May.png"]
   },
   "June": {
     "fruits": [
@@ -119,7 +120,7 @@
       "lettuce",
       "carrot"
     ],
-    "style": ["black", "blue", "images/june.jpg"]
+    "style": ["blue", "images/June.png"]
   },
   "July": {
     "fruits": ["melon", "watermelon", "peach", "nectarine", "plum", "grape"],
@@ -131,7 +132,7 @@
       "zucchini",
       "green bean"
     ],
-    "style": ["brown", "green", "images/july.jpg"]
+    "style": ["green", "images/July.png"]
   },
   "August": {
     "fruits": ["melon", "watermelon", "plum", "grape", "fig"],
@@ -143,7 +144,7 @@
       "zucchini",
       "green bean"
     ],
-    "style": ["black", "blue", "images/august.jpg"]
+    "style": ["#F88379", "images/August.png"]
   },
   "September": {
     "fruits": ["grape", "fig", "pear", "apple", "pomegranate"],
@@ -155,7 +156,7 @@
       "cucumber",
       "zucchini"
     ],
-    "style": ["black", "blue", "images/september.jpg"]
+    "style": ["black", "blue", "images/September.png"]
   },
   "October": {
     "fruits": ["grape", "apple", "pomegranate", "persimmon", "fig"],
@@ -177,7 +178,8 @@
       "chard",
       "leek",
       "spinach"
-    ]
+    ],
+    "style": ["black", "blue", "images/November.png"]
   },
   "December": {
     "fruits": ["orange", "mandarin", "kiwi", "apple", "pear", "grapefruit"],
@@ -188,6 +190,7 @@
       "chard",
       "spinach",
       "endive"
-    ]
+    ],
+    "style": ["black", "blue", "images/December.png"]
   }
 }
