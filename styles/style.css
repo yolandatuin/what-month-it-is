@@ -2,6 +2,7 @@ body {
   font-family: "Roboto", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
+  margin: 0;
 }
 
 h1 {
@@ -12,7 +13,9 @@ h1 {
   text-align: center;
   background-color: white;
   margin-bottom: 0;
+  margin-top: 0;
 }
+
 h2 {
   text-align: center;
   background-color: white;
@@ -21,17 +24,16 @@ h2 {
   color: black;
 }
 .container {
-  width: 100%;
+  min-height: 100vh;
   display: flex;
+  flex-direction: column;
 }
 
 aside {
-  width: 300px;
-  display: flex;
   border-radius: 1rem;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 20%;
+  margin-top: auto;
+  text-align: center;
+  height: auto;
 }
 
 aside h1 {
@@ -41,7 +43,7 @@ aside ul {
   list-style: none;
   border-left-style: solid;
   border-color: #fff;
-  font-size: 0.9rem;
+  font-size: 1.2rem;
   color: black;
   background-color: white;
 }
