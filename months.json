@@ -67,7 +67,7 @@
       "asparagus",
       "lettuce"
     ],
-    "style": ["green", "Images/march.png"]
+    "style": ["green", "images/march.png"]
   },
   "April": {
     "fruits": ["strawberry", "apricot", "cherry", "kiwi", "orange", "pear"],
@@ -167,7 +167,8 @@
       "cauliflower",
       "spinach",
       "leek"
-    ]
+    ],
+    "style": ["black", "images/October.png"]
   },
   "November": {
     "fruits": ["persimmon", "apple", "pear", "kiwi", "orange", "mandarin"],

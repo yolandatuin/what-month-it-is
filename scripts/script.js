@@ -29,6 +29,7 @@ fetch("months.json")
   .then((response) => response.json())
   .then((data) => {
     monthArray = data;
+
     paintData();
   })
   .catch((error) => console.log("Error al cargar el json", error));
