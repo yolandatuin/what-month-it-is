@@ -1,5 +1,6 @@
 let month = document.querySelector(".js_month");
 let itemsList = document.querySelector(".js_ul");
+let emojies = document.querySelector(".js_emojies");
 
 let currentDate = new Date();
 let currentDay = currentDate.getDate();
@@ -42,7 +43,7 @@ function paintData() {
 
   document.body.style.color = monthStyle[0];
   document.querySelector(".h1_color").style.color = monthStyle[1];
-  document.body.style.backgroundImage = `url('${monthStyle[1]}')`;
+  emojies.innerHTML = `${monthStyle[1]}`;
 
   for (let item in monthVeggies) {
     //"in" because it's an Object, not an Array.
